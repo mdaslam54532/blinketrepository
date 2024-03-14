@@ -1,0 +1,9 @@
+{
+	"name": "projectDF20",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac964827-1d37-4850-ac7e-9ed52d641b6d",
+		"tenantId": "b5061b5d-ad19-4dda-abc7-bd8fcf107d6e"
+	}
+}
